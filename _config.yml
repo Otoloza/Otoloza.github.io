@@ -12,42 +12,42 @@
 # Basic info
 ##################################################
 locale                   : "en-US"
-title                    : "Mario E Bermonti-Pérez"
+title                    : "Odette Toloza"
 subtitle                 : # site tagline that appears below site title in masthead
 title_separator          : "-"
-name                     : "Mario E Bermonti-Pérez"
-description              : "My personal webpage and blog for sharing my academic information and ideas."
+name                     : "Odette Toloza"
+description              : "Postdoctoral researcher"
 
 # Site Author info
 ##################################################
 author:
-  name             : "Mario E Bermonti-Pérez"
+  name             : "Odette Toloza"
   avatar           : "/images/bio-photo.jpeg"
-  bio              : "Researcher and professor of Psychology"
-  location: "Puerto Rico"
+  bio              : "Researcher at the USM"
+  location: "Chile"
   #links that appear in the authors navigation sidebar
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square fa-lg"
-      url: "mailto:mbermonti@psm.edu"
-    - label: "ResearchGate"
-      icon: "fab fa-researchgate fa-lg"
-      url: "https://www.researchgate.net/profile/Mario-Bermonti-Perez"
+      url: "mailto:odette.toloza@usm.cl"
+    #- label: "ResearchGate"
+    #  icon: "fab fa-researchgate fa-lg"
+    #  url: "https://www.researchgate.net/profile/Mario-Bermonti-Perez"
     - label: "ORCID"
       icon: "fab fa-orcid fa-lg"
-      url: "https://orcid.org/0000-0001-5228-2538"
-    - label: "Google Scholar"
-      icon: "ai ai-google-scholar-square"
-      url: "http://scholar.google.com/citations?user=4StcUcEAAAAJ&hl=en"
-    - label: "LinkedIn"
-      icon: "fab fa-linkedin fa-lg"
-      url: "https://pr.linkedin.com/in/mario-bermonti-p%C3%A9rez-286b943b"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square fa-lg"
-      url: "https://mobile.twitter.com/m_bermonti"
+      url: "https://orcid.org/0000-0002-2398-719X"
+    #- label: "Google Scholar"
+    #  icon: "ai ai-google-scholar-square"
+    #  url: "http://scholar.google.com/citations?user=4StcUcEAAAAJ&hl=en"
+    #- label: "LinkedIn"
+    #  icon: "fab fa-linkedin fa-lg"
+    #  url: "https://pr.linkedin.com/in/mario-bermonti-p%C3%A9rez-286b943b"
+    #- label: "Twitter"
+    #  icon: "fab fa-fw fa-twitter-square fa-lg"
+    #  url: "https://mobile.twitter.com/m_bermonti"
     - label: "GitHub"
       icon: "fab fa-fw fa-github fa-lg"
-      url: "https://github.com/mario-bermonti"
+      url: "https://github.com/otoloza"
 
 # Social Sharing
 ##################################################
