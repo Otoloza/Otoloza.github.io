@@ -5,20 +5,17 @@ permalink: /
 title: Welcome!
 
 feature_row_title: Academic Interests
-feature_row:
-  - image_path: /images/white_dwarfs.jpeg
-    alt: "Interest in Research"
-    image_caption: "[taken from Warwick](https://warwick.ac.uk/services/communications/medialibrary/images/january2019/interior_of_white_dwarf_v3.jpg)"
-    title: "white dwarfs"
-    excerpt:
-        "physics, evolution, and their connection to planetary systems."
-  - image_path: /images/science.jpeg
-    alt: "Interest in Science"
-    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/symbols-come-out-bulb-top-book_985250.htm)"
-    title: "Open science & Philosophy of science"
-    excerpt:
-        "I am an advocate of open science and promote conversations about how to improve the way we do science."
 
+
+feature_row:
+  - image_path: /images/WD.png
+    alt: "Research interests"
+    title: "white dwarfs"
+    excerpt: 'physics, evolution, and their connection to planetary systems `type="left"`'
+    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/symbols-come-out-bulb-top-book_985250.htm)"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
 ---
 
 ## About me...
