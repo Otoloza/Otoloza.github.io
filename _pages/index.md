@@ -29,6 +29,6 @@ My main areas of research is whatever that contains a white dwarf. You can find 
 <br />
 <br />
 {% if page.feature_row %}
-  {% include feature_row %}
+  {% include feature_row id="feature_row" type="left" %}
 {% endif %}
 <!-- Delete previous lines if you prefer not to have a feature row. -->
