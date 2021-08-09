@@ -7,7 +7,17 @@ title: Welcome!
 feature_row_title: Academic Interests
 
 
-feature_row:
+feature_row2:
+  - image_path: /images/WD.png
+    alt: "Research interests"
+    title: "white dwarfs"
+    excerpt: 'physics, evolution, and their connection to planetary systems'
+    image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
+    url: "#test-link"
+    btn_label: "Read More"
+    btn_class: "btn--primary"
+    
+feature_row3:
   - image_path: /images/WD.png
     alt: "Research interests"
     title: "white dwarfs"
@@ -31,6 +41,7 @@ My main areas of research is whatever that contains a white dwarf. You can find 
 {% include feature_row id="intro" type="center" %}
 
 {% if page.feature_row %}
-  {% include feature_row id="feature_row" type="left" %}
+  {% include feature_row id="feature_row2" type="left" %}
+  {% include feature_row id="feature_row3" type="right" %}
 {% endif %}
 <!-- Delete previous lines if you prefer not to have a feature row. -->
