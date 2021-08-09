@@ -65,8 +65,8 @@
     width: 100%;
 
     &.emoji {
-      width: 20px;
-      height: 20px;
+      width: 30px;
+      height: 30px;
     }
   }
 }
@@ -127,7 +127,7 @@
   }
 
   img {
-    max-width: 250px;
+    max-width: 180px;
     border-radius: 50%;
 
     @include breakpoint($large) {
