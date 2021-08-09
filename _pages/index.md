@@ -11,8 +11,8 @@ feature_row:
   - image_path: /images/WD.png
     alt: "Research interests"
     title: "white dwarfs"
-    excerpt: 'physics, evolution, and their connection to planetary systems `type="left"`'
-    image_caption: "[Designed by Freepik](https://www.freepik.com/free-photo/symbols-come-out-bulb-top-book_985250.htm)"
+    excerpt: 'physics, evolution, and their connection to planetary systems'
+    image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
