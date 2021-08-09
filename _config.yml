@@ -23,7 +23,7 @@ description              : "Postdoctoral researcher"
 author:
   name             : "Odette Toloza"
   avatar           : "/images/bio-prof.png"
-  bio              : "Researcher at the USM"
+  bio              : "I am a postdoc at the USM"
   location: "Chile"
   #links that appear in the authors navigation sidebar
   links:
@@ -134,7 +134,7 @@ baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 github                   : [metadata] # Fixes warning about GitHub metadata
 # breadcrumbs            : false # true, false (default)
-words_per_minute         : 200
+words_per_minute         : 180
 
 # Analytics
 ##################################################
