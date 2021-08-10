@@ -4,11 +4,12 @@ author_profile: true
 permalink: /
 title: Welcome!
 
-feature_row_title: white dwarfs
+feature_row_title: Research interests
 
 
 feature_row:
   - image_path: /images/WD.png
+    title : "whitw dwarfs"
     alt: "white dwarfs"
     excerpt: 'physics, evolution, and their connection to planetary systems'
     image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
@@ -16,11 +17,11 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-feature_row_title: Accreting white dwarfs
 
 
 feature_row2:
   - image_path: /images/WD.png
+    title : "Accreting white dwarfs" 
     alt: "Accreting white dwarfs"
     excerpt: 'physics, evolution, and their connection to planetary systems'
     image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
