@@ -4,7 +4,7 @@ author_profile: true
 permalink: /
 title: Welcome!
 
-feature_row_title: Academic Interests
+feature_row_title: white dwarfs
 
 
 feature_row:
