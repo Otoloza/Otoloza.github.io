@@ -15,7 +15,10 @@ feature_row:
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
-    
+
+feature_row_title: Accreting white dwarfs
+
+
 feature_row2:
   - image_path: /images/WD.png
     alt: "Accreting white dwarfs"
