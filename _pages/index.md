@@ -38,10 +38,11 @@ My main areas of research is whatever that contains a white dwarf. You can find 
 <br />
 <br />
 
-
+<div class="grid__wrapper">
 
 {% if page.feature_row %}
   {% include feature_row  type="left" %}
   {% include feature_row id="feature_row2" type="right" %}
 {% endif %}
+</div>
 <!-- Delete previous lines if you prefer not to have a feature row. -->
