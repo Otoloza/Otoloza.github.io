@@ -9,7 +9,7 @@ feature_row_title: Research interests
 
 feature_row:
   - image_path: /images/WD.png
-    title : "whitw dwarfs"
+    title : "white dwarfs"
     alt: "white dwarfs"
     excerpt: 'physics, evolution, and their connection to planetary systems'
     image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
@@ -23,7 +23,7 @@ feature_row2:
   - image_path: /images/WD.png
     title : "Accreting white dwarfs" 
     alt: "Accreting white dwarfs"
-    excerpt: 'physics, evolution, and their connection to planetary systems'
+    excerpt: 'white dwarfs accreting via Roche lobe overflow from non-degenerate companions (e.g. cataclysmic variables)'
     image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
     url: "#test-link"
     btn_label: "Read More"
