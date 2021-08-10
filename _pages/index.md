@@ -9,7 +9,7 @@ feature_row_title: white dwarfs
 
 feature_row:
   - image_path: /images/WD.png
-    alt: "White dwarfs"
+    alt: "white dwarfs"
     excerpt: 'physics, evolution, and their connection to planetary systems'
     image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
     url: "#test-link"
@@ -37,7 +37,6 @@ My main areas of research is whatever that contains a white dwarf. You can find 
 <br />
 <br />
 
-{% include feature_row id="intro" type="center" %}
 
 
 {% if page.feature_row %}
