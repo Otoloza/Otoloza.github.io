@@ -4,7 +4,6 @@ author_profile: true
 permalink: /
 title: Welcome!
 
-feature_row_title: Research interests
 
 
 feature_row:
