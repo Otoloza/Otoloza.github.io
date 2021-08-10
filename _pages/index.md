@@ -17,8 +17,6 @@ feature_row:
     btn_label: "Read More"
     btn_class: "btn--primary"
 
-
-
 feature_row2:
   - image_path: /images/WD.png
     title : "Accreting white dwarfs" 
