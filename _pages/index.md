@@ -17,11 +17,11 @@ feature_row:
     btn_class: "btn--primary"
 
 feature_row2:
-  - image_path: /images/WD.png
+  - image_path: /images/cv.png
     title : "Accreting white dwarfs" 
     alt: "Accreting white dwarfs"
     excerpt: 'white dwarfs accreting via Roche lobe overflow from non-degenerate companions (e.g. cataclysmic variables)'
-    image_caption: "[from Warwick](https://warwick.ac.uk/newsandevents/pressreleases/thousands_of_stars/)"
+    image_caption: "[University of Athens Observatory](http://observatory.phys.uoa.gr/research_cataclysmic_en.html)"
     url: "#test-link"
     btn_label: "Read More"
     btn_class: "btn--primary"
