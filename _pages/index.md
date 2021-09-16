@@ -29,7 +29,7 @@ feature_row2:
 
 ## About me...
 
-I am postdoctoral fellow at the new astronomy and astrophysics group at the [USM](https://fisica.usm.cl/investigacion/astrofisica/) in Chile. 
+I am postdoctoral fellow at the recently formed astronomy and astrophysics group at the [USM](https://fisica.usm.cl/investigacion/astrofisica/) in Chile, which I must add, the campus is very. I am currently,  funded by a FONDECYT fellowship. I am mainly observer (optical and ultraviolet spectroscopy and optical photometry)  thought I have attempted to do some theory (focused on binary evolution).
 
 My main areas of research is whatever that contains a white dwarf. You can find a bit of more information in the <a href="{{ site.url }}{{ site.baseurl }}/research">Research section</a>.
 
